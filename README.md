@@ -1,6 +1,6 @@
 # Crime-Reporting-System
 
-We have designed a web application called the Online Crime Reporting System using PHP with the aim of providing accessible crime management solutions such as filing FIR and checking its status for everyone. The website has four functionalities, which include:
+We have designed a web application called the Online Crime Reporting System using PHP with the aim of providing accessible crime management solutions such as filing FIR and checking its status for everyone. The website has four functionalities, which includes:
 
 1. Login pages for four types of users: Users, Police In Charge, Station In Charge, and Police Headquarters.
 2. Users can register and login to file a complaint using their Aadhar card.

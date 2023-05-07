@@ -20,7 +20,7 @@
     {
         die('could not connect: '.mysqli_error());
     }
-     mysqli_select_db("crime_portal");
+     mysqli_select_db($con, "crime_portal");
     
     $i_id=$_SESSION['email'];
 
